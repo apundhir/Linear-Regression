@@ -49,6 +49,7 @@ Heteroscedasticity means unequal scatter, which means that the variance of resid
 To check for heteroscedasticity, you can look for a residual versus fitted values plot. If heteroskedasticity exists, the plot will exhibit a funnel-shaped pattern.
 
 
+# Model Building Steps
 Steps we will use throughout the linear regression model building process:
 
 1. Once you understood the business objective, you prepared the data, followed by EDA and the division of data into training and test datasets.
